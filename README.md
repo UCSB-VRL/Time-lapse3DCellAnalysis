@@ -32,7 +32,7 @@ You need to install SimpleITK, pytorch, scikit-image, opencv, DenseInferenceWrap
 - result folder has the output
 
 ### Training
-- Data PNAS: VRL Data on [google drive](https://drive.google.com/drive/folders/1RvZYdojQGWGE1V6su1pZOOvJ0g0wKZLy)
+- Data PNAS: VRL Data on [google drive](https://drive.google.com/drive/u/1/folders/188SzF6Befr5LjhSNGhInnttt6Zkaid9N)
 - python main.py
                                                    
 ## 3D Cellular and Sub-cellular feature extraction
